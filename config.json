@@ -1,0 +1,8 @@
+{
+    "stocks": [
+        "NIFTYBEES.NS",
+        "BTC-USD"
+    ],
+    "interval_seconds": 120,
+    "llm_model": "qwen2.5:1.5b"
+}
